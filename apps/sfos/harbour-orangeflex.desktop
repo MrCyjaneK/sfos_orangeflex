@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-orangeflex
+Exec=harbour-orangeflex
+Name=Orange Flex
+Name[en]=Orange Flex
+Name[pl]=Orange Flex
+
+[X-Sailjail]
+OrganizationName=x.x.orangeflex
+ApplicationName=orangeflex
+Permissions=Internet

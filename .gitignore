@@ -1,0 +1,14 @@
+flows
+flows-*
+_extracted/
+*.apk
+.DS_Store
+apps/sfos/lib/
+apps/sfos/Makefile
+apps/sfos/*.list
+*.o
+moc_*.cpp
+apidocs/
+*.rpm
+scripts
+harbour-orangeflex
